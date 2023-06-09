@@ -9,7 +9,8 @@ export default {
     extend: {
       fontFamily:{
         burtons: 'burtons',
-      }
+      },
+      darkgray:'#a9a9a9'
     },
   },
   plugins: [],
